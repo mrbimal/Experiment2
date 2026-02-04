@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+select {
+  padding: 6px;
+  margin-bottom: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
